@@ -6,10 +6,6 @@ import java.util.Set;
 
 import seminar6.Person.genderTypes;
 public class Main {
-
-
-    public class homework {
-
         // Создать класс Person.
         // У класса должны быть поля:
         // 1. Имя (String)
@@ -64,6 +60,4 @@ public class Main {
 
             }
         }
-
-    }
 }
